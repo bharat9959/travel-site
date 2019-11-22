@@ -19,6 +19,6 @@
   "homepage": "https://github.com/bharat9959/travel-site#readme",
   "dependencies": {
     "lodash": "^4.17.15",
-    "normalize.css": "^8.0.1"
+    
   }
 }
